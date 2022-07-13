@@ -22,7 +22,5 @@
     define('DB_NAME', 'dev_db');
 
     echo HOST;
-    
-
 ?>
 

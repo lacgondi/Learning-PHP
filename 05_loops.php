@@ -40,14 +40,4 @@ $person = [
 foreach ($person as $key => $value) {
     echo "$key - $value<br>";
 }
-
-
-
-
-
-
-
-
-
-
 ?>
