@@ -27,7 +27,7 @@
     $person= [
         'first_name' => 'László',
         'last_name' => 'Gondi',
-        'email' => 'laszlo.zsolt.gondi@gmail.com'
+        'email' => 'laszlo@gmail.com'
     ];
 
     //echo $person['first_name'];
@@ -36,7 +36,7 @@
         [
             'first_name' => 'László',
             'last_name' => 'Gondi',
-            'email' => 'laszlo.zsolt.gondi@gmail.com'
+            'email' => 'laszlo@gmail.com'
         ],
         [
             'first_name' => 'Steve',
