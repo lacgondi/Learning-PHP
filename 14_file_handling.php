@@ -12,7 +12,7 @@
     else
     {
         $handle = fopen($file, 'w');
-        $contents = 'Brad'. PHP_EOL . 'Sarah'. PHP_EOL. 'Mike';
+        $contents = 'Brad'. PHP_EOL . 'Sarah'. PHP_EOL. 'Mike'; //php eol is a line break
         fwrite($handle, $contents);
         fclose($handle);
     }
